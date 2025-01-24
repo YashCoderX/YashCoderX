@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1116&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="YashAgarwal" /> </p>
 
-## 👦🏻 About me
+## 👦🏻 About Me
 
 - 🌱 I’m currently working on **React** and **Rust** projects.
 - ☁️ I'm learning Redux to integrate in my upcoming project and advancing to Rust concepts.
@@ -16,9 +16,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <details>
@@ -45,11 +45,11 @@
 ![Driving](https://img.shields.io/badge/%F0%9F%93%96%20Driving-F24E1E?style=for-the-badge)
 ![Cooking](https://img.shields.io/badge/%F0%9F%8E%B9%20Cooking-4EAA25?style=for-the-badge)
 
-## 🫱🏼‍🫲🏼 Connect with me
+## 🫱🏼‍🫲🏼 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashagarwal1611)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash1116)
 
-## 📊 Github stats
+## 📊 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yash1116&show_icons=true&theme=gotham" alt="YashAgarwal" />
