@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1116&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="YashAgarwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashCoderX&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="YashAgarwal" /> </p>
 
 ## 👦🏻 About Me
 
@@ -18,8 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <details>
   <summary>See More</summary>
@@ -41,15 +41,15 @@
 
 ## 😁 Hobbies
 
-![Playing Sports](https://img.shields.io/badge/%F0%9F%92%AA%F0%9F%8F%BB%20Playing_Sports-0052CC?style=for-the-badge)
-![Driving](https://img.shields.io/badge/%F0%9F%93%96%20Driving-F24E1E?style=for-the-badge)
-![Cooking](https://img.shields.io/badge/%F0%9F%8E%B9%20Cooking-4EAA25?style=for-the-badge)
+![Playing Sports](https://img.shields.io/badge/%E2%9A%BDPlaying_Sports-0052CC?style=for-the-badge)
+![Driving](https://img.shields.io/badge/%F0%9F%9A%97Driving-38B2AC?style=for-the-badge)
+![Cooking](https://img.shields.io/badge/%F0%9F%8D%B4Cooking-F24E1E?style=for-the-badge)
 
 ## 🫱🏼‍🫲🏼 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashagarwal1611)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash1116)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashCoderX)
 
 ## 📊 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yash1116&show_icons=true&theme=gotham" alt="YashAgarwal" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YashCoderX&show_icons=true&theme=gotham" alt="YashAgarwal" />
