@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
-<h3 align="center">Full Stack Developer | MERN & Spring Boot</h3>
+<h3 align="center">A passionate Full Stack Developer | MERN & Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashCoderX&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="YashAgarwal" /> </p>
 
